@@ -77,7 +77,7 @@ B. Include key metrics and charts to monitor sales trends by branch and product 
 
 ## Link to Project
 
-![]( CLEARX_COSMETICS_PERFORMANCE_DATA_DASHBOARD)
+![]([ CLEARX_COSMETICS_PERFORMANCE_DATA_DASHBOARD](https://docs.google.com/spreadsheets/d/1TDmaH9HbZnaYxE_0PA6nAcNOP_wOJts4/edit?usp=sharing&ouid=100420815063974730723&rtpof=true&sd=true))
 
 
 
